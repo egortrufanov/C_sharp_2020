@@ -1,0 +1,6 @@
+C:\Users\miair\Desktop\Labs\Lab01\Greetings\Greetings\bin\Debug\Greetings.exe.config
+C:\Users\miair\Desktop\Labs\Lab01\Greetings\Greetings\bin\Debug\Greetings.exe
+C:\Users\miair\Desktop\Labs\Lab01\Greetings\Greetings\bin\Debug\Greetings.pdb
+C:\Users\miair\Desktop\Labs\Lab01\Greetings\Greetings\obj\Debug\Greetings.csprojAssemblyReference.cache
+C:\Users\miair\Desktop\Labs\Lab01\Greetings\Greetings\obj\Debug\Greetings.exe
+C:\Users\miair\Desktop\Labs\Lab01\Greetings\Greetings\obj\Debug\Greetings.pdb

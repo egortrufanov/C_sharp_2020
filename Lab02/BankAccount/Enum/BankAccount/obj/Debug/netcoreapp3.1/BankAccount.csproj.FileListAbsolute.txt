@@ -1,0 +1,11 @@
+C:\Users\miair\Desktop\Labs\Lab02\BankAccount\Enum\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.exe
+C:\Users\miair\Desktop\Labs\Lab02\BankAccount\Enum\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.deps.json
+C:\Users\miair\Desktop\Labs\Lab02\BankAccount\Enum\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.json
+C:\Users\miair\Desktop\Labs\Lab02\BankAccount\Enum\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.dev.json
+C:\Users\miair\Desktop\Labs\Lab02\BankAccount\Enum\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\miair\Desktop\Labs\Lab02\BankAccount\Enum\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Users\miair\Desktop\Labs\Lab02\BankAccount\Enum\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csprojAssemblyReference.cache
+C:\Users\miair\Desktop\Labs\Lab02\BankAccount\Enum\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\Labs\Lab02\BankAccount\Enum\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+C:\Users\miair\Desktop\Labs\Lab02\BankAccount\Enum\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\miair\Desktop\Labs\Lab02\BankAccount\Enum\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.pdb

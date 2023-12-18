@@ -1,0 +1,10 @@
+C:\Users\miair\Desktop\Labs\Lab02\StructType\StructType\StructType\bin\Debug\netcoreapp3.1\StructType.exe
+C:\Users\miair\Desktop\Labs\Lab02\StructType\StructType\StructType\bin\Debug\netcoreapp3.1\StructType.deps.json
+C:\Users\miair\Desktop\Labs\Lab02\StructType\StructType\StructType\bin\Debug\netcoreapp3.1\StructType.runtimeconfig.json
+C:\Users\miair\Desktop\Labs\Lab02\StructType\StructType\StructType\bin\Debug\netcoreapp3.1\StructType.runtimeconfig.dev.json
+C:\Users\miair\Desktop\Labs\Lab02\StructType\StructType\StructType\bin\Debug\netcoreapp3.1\StructType.dll
+C:\Users\miair\Desktop\Labs\Lab02\StructType\StructType\StructType\bin\Debug\netcoreapp3.1\StructType.pdb
+C:\Users\miair\Desktop\Labs\Lab02\StructType\StructType\StructType\obj\Debug\netcoreapp3.1\StructType.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\Labs\Lab02\StructType\StructType\StructType\obj\Debug\netcoreapp3.1\StructType.AssemblyInfo.cs
+C:\Users\miair\Desktop\Labs\Lab02\StructType\StructType\StructType\obj\Debug\netcoreapp3.1\StructType.dll
+C:\Users\miair\Desktop\Labs\Lab02\StructType\StructType\StructType\obj\Debug\netcoreapp3.1\StructType.pdb
