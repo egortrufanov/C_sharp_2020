@@ -1,0 +1,69 @@
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.exe
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.deps.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.dev.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.dll
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.pdb
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.csprojAssemblyReference.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfo.cs
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.dll
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.pdb
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.csprojAssemblyReference.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfo.cs
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.dll
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.pdb
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.exe
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.deps.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.dev.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.dll
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.pdb
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.genruntimeconfig.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab08\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.csprojAssemblyReference.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab08\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab08\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab08\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfo.cs
+C:\Users\miair\Desktop\C#_2020\Labs\Lab08\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.dll
+C:\Users\miair\Desktop\C#_2020\Labs\Lab08\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.pdb
+C:\Users\miair\Desktop\C#_2020\Labs\Lab08\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.exe
+C:\Users\miair\Desktop\C#_2020\Labs\Lab08\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.deps.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab08\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab08\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.dev.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab08\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.dll
+C:\Users\miair\Desktop\C#_2020\Labs\Lab08\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.pdb
+C:\Users\miair\Desktop\C#_2020\Labs\Lab08\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.genruntimeconfig.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.csprojAssemblyReference.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfo.cs
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.dll
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.pdb
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.exe
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.deps.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.dev.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.dll
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.pdb
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\MyClass\bin\Debug\netcoreapp3.1\Bibl.dll
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\MyClass\bin\Debug\netcoreapp3.1\Bibl.pdb
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.csproj.CopyComplete
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.genruntimeconfig.cache
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.exe
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.deps.json
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.json
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.dev.json
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.dll
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.pdb
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\MyClass\bin\Debug\netcoreapp3.1\Bibl.dll
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\MyClass\bin\Debug\netcoreapp3.1\Bibl.pdb
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.csproj.AssemblyReference.cache
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfo.cs
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.csproj.CopyComplete
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.dll
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.pdb
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.genruntimeconfig.cache

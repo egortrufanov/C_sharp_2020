@@ -1,0 +1,18 @@
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\Bibl\bin\Debug\netstandard2.0\Bibl.deps.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\Bibl\bin\Debug\netstandard2.0\Bibl.dll
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\Bibl\bin\Debug\netstandard2.0\Bibl.pdb
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\Bibl\obj\Debug\netstandard2.0\Bibl.csprojAssemblyReference.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\Bibl\obj\Debug\netstandard2.0\Bibl.csproj.CoreCompileInputs.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\Bibl\obj\Debug\netstandard2.0\Bibl.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\Bibl\obj\Debug\netstandard2.0\Bibl.AssemblyInfo.cs
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\Bibl\obj\Debug\netstandard2.0\Bibl.dll
+C:\Users\miair\Desktop\C#_2020\Labs\Lab09\MyClass\Bibl\obj\Debug\netstandard2.0\Bibl.pdb
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\Bibl\bin\Debug\netstandard2.0\Bibl.deps.json
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\Bibl\bin\Debug\netstandard2.0\Bibl.dll
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\Bibl\bin\Debug\netstandard2.0\Bibl.pdb
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\Bibl\obj\Debug\netstandard2.0\Bibl.csproj.AssemblyReference.cache
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\Bibl\obj\Debug\netstandard2.0\Bibl.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\Bibl\obj\Debug\netstandard2.0\Bibl.AssemblyInfo.cs
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\Bibl\obj\Debug\netstandard2.0\Bibl.csproj.CoreCompileInputs.cache
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\Bibl\obj\Debug\netstandard2.0\Bibl.dll
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Labs\Lab09\MyClass\Bibl\obj\Debug\netstandard2.0\Bibl.pdb

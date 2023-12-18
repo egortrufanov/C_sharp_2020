@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xoEMxYa0ohowogQcYAY5c9VvzTPOXjI/ZkS1x/0Al8HVvt2pFV0cLZWOU/fI/IrOb9L2UpKeLIcJO9x3y9vkPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miair\\Desktop\\прошлое\\1 курс\\2 сем\\C#_2020\\Labs\\Lab09\\MyClass\\Bibl\\Bibl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miair\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\miair\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

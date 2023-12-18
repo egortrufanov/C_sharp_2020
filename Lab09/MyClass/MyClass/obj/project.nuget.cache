@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wGqKxU6/6rXMH8NSxBPbd9UsUlwSJQcdFQ897Aer1n/zwQml8CYwBv+bwPuaAj3QfLredstgA55bWbhNTriw2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miair\\Desktop\\прошлое\\1 курс\\2 сем\\C#_2020\\Labs\\Lab09\\MyClass\\MyClass\\MyClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miair\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
