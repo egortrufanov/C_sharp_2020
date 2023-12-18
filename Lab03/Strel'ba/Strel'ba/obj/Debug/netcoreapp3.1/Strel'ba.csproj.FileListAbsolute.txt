@@ -1,0 +1,10 @@
+C:\Users\miair\Desktop\Labs\Lab03\Strel'ba\Strel'ba\bin\Debug\netcoreapp3.1\Strel'ba.exe
+C:\Users\miair\Desktop\Labs\Lab03\Strel'ba\Strel'ba\bin\Debug\netcoreapp3.1\Strel'ba.deps.json
+C:\Users\miair\Desktop\Labs\Lab03\Strel'ba\Strel'ba\bin\Debug\netcoreapp3.1\Strel'ba.runtimeconfig.json
+C:\Users\miair\Desktop\Labs\Lab03\Strel'ba\Strel'ba\bin\Debug\netcoreapp3.1\Strel'ba.runtimeconfig.dev.json
+C:\Users\miair\Desktop\Labs\Lab03\Strel'ba\Strel'ba\bin\Debug\netcoreapp3.1\Strel'ba.dll
+C:\Users\miair\Desktop\Labs\Lab03\Strel'ba\Strel'ba\bin\Debug\netcoreapp3.1\Strel'ba.pdb
+C:\Users\miair\Desktop\Labs\Lab03\Strel'ba\Strel'ba\obj\Debug\netcoreapp3.1\Strel'ba.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\Labs\Lab03\Strel'ba\Strel'ba\obj\Debug\netcoreapp3.1\Strel'ba.AssemblyInfo.cs
+C:\Users\miair\Desktop\Labs\Lab03\Strel'ba\Strel'ba\obj\Debug\netcoreapp3.1\Strel'ba.dll
+C:\Users\miair\Desktop\Labs\Lab03\Strel'ba\Strel'ba\obj\Debug\netcoreapp3.1\Strel'ba.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Visokosny_god/1.0.0": {
+        "runtime": {
+          "Visokosny_god.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Visokosny_god/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

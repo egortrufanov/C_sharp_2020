@@ -1,0 +1,10 @@
+C:\Users\miair\Desktop\Labs\Lab03\Visokosny_god\Visokosny_god\bin\Debug\netcoreapp3.1\Visokosny_god.exe
+C:\Users\miair\Desktop\Labs\Lab03\Visokosny_god\Visokosny_god\bin\Debug\netcoreapp3.1\Visokosny_god.deps.json
+C:\Users\miair\Desktop\Labs\Lab03\Visokosny_god\Visokosny_god\bin\Debug\netcoreapp3.1\Visokosny_god.runtimeconfig.json
+C:\Users\miair\Desktop\Labs\Lab03\Visokosny_god\Visokosny_god\bin\Debug\netcoreapp3.1\Visokosny_god.runtimeconfig.dev.json
+C:\Users\miair\Desktop\Labs\Lab03\Visokosny_god\Visokosny_god\bin\Debug\netcoreapp3.1\Visokosny_god.dll
+C:\Users\miair\Desktop\Labs\Lab03\Visokosny_god\Visokosny_god\bin\Debug\netcoreapp3.1\Visokosny_god.pdb
+C:\Users\miair\Desktop\Labs\Lab03\Visokosny_god\Visokosny_god\obj\Debug\netcoreapp3.1\Visokosny_god.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\Labs\Lab03\Visokosny_god\Visokosny_god\obj\Debug\netcoreapp3.1\Visokosny_god.AssemblyInfo.cs
+C:\Users\miair\Desktop\Labs\Lab03\Visokosny_god\Visokosny_god\obj\Debug\netcoreapp3.1\Visokosny_god.dll
+C:\Users\miair\Desktop\Labs\Lab03\Visokosny_god\Visokosny_god\obj\Debug\netcoreapp3.1\Visokosny_god.pdb

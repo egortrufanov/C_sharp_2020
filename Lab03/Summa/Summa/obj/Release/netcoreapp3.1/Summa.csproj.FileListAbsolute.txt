@@ -1,0 +1,10 @@
+C:\Users\miair\Desktop\Labs\Lab03\Summa\Summa\bin\Release\netcoreapp3.1\Summa.exe
+C:\Users\miair\Desktop\Labs\Lab03\Summa\Summa\bin\Release\netcoreapp3.1\Summa.deps.json
+C:\Users\miair\Desktop\Labs\Lab03\Summa\Summa\bin\Release\netcoreapp3.1\Summa.runtimeconfig.json
+C:\Users\miair\Desktop\Labs\Lab03\Summa\Summa\bin\Release\netcoreapp3.1\Summa.runtimeconfig.dev.json
+C:\Users\miair\Desktop\Labs\Lab03\Summa\Summa\bin\Release\netcoreapp3.1\Summa.dll
+C:\Users\miair\Desktop\Labs\Lab03\Summa\Summa\bin\Release\netcoreapp3.1\Summa.pdb
+C:\Users\miair\Desktop\Labs\Lab03\Summa\Summa\obj\Release\netcoreapp3.1\Summa.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\Labs\Lab03\Summa\Summa\obj\Release\netcoreapp3.1\Summa.AssemblyInfo.cs
+C:\Users\miair\Desktop\Labs\Lab03\Summa\Summa\obj\Release\netcoreapp3.1\Summa.dll
+C:\Users\miair\Desktop\Labs\Lab03\Summa\Summa\obj\Release\netcoreapp3.1\Summa.pdb
