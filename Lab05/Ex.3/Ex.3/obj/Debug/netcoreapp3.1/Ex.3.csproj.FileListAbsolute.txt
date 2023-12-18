@@ -1,0 +1,12 @@
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\Ex.3\Ex.3\obj\Debug\netcoreapp3.1\Ex.3.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\Ex.3\Ex.3\obj\Debug\netcoreapp3.1\Ex.3.AssemblyInfo.cs
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\Ex.3\Ex.3\bin\Debug\netcoreapp3.1\Ex.3.exe
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\Ex.3\Ex.3\bin\Debug\netcoreapp3.1\Ex.3.deps.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\Ex.3\Ex.3\bin\Debug\netcoreapp3.1\Ex.3.runtimeconfig.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\Ex.3\Ex.3\bin\Debug\netcoreapp3.1\Ex.3.runtimeconfig.dev.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\Ex.3\Ex.3\bin\Debug\netcoreapp3.1\Ex.3.dll
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\Ex.3\Ex.3\bin\Debug\netcoreapp3.1\Ex.3.pdb
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\Ex.3\Ex.3\obj\Debug\netcoreapp3.1\Ex.3.dll
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\Ex.3\Ex.3\obj\Debug\netcoreapp3.1\Ex.3.pdb
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\Ex.3\Ex.3\obj\Debug\netcoreapp3.1\Ex.3.csproj.CoreCompileInputs.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\Ex.3\Ex.3\obj\Debug\netcoreapp3.1\Ex.3.genruntimeconfig.cache

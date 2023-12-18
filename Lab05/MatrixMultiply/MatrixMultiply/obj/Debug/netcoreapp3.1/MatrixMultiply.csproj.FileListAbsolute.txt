@@ -1,0 +1,13 @@
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.1\MatrixMultiply.exe
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.1\MatrixMultiply.deps.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.1\MatrixMultiply.runtimeconfig.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.1\MatrixMultiply.runtimeconfig.dev.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.1\MatrixMultiply.dll
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.1\MatrixMultiply.pdb
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.1\MatrixMultiply.csprojAssemblyReference.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.1\MatrixMultiply.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.1\MatrixMultiply.AssemblyInfo.cs
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.1\MatrixMultiply.dll
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.1\MatrixMultiply.pdb
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.1\MatrixMultiply.csproj.CoreCompileInputs.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.1\MatrixMultiply.genruntimeconfig.cache
