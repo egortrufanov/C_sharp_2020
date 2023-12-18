@@ -1,0 +1,13 @@
+C:\Users\miair\Desktop\C#_2020\Practice\Practice1\Practice1\bin\Debug\netcoreapp3.1\Practice1.exe
+C:\Users\miair\Desktop\C#_2020\Practice\Practice1\Practice1\bin\Debug\netcoreapp3.1\Practice1.deps.json
+C:\Users\miair\Desktop\C#_2020\Practice\Practice1\Practice1\bin\Debug\netcoreapp3.1\Practice1.runtimeconfig.json
+C:\Users\miair\Desktop\C#_2020\Practice\Practice1\Practice1\bin\Debug\netcoreapp3.1\Practice1.runtimeconfig.dev.json
+C:\Users\miair\Desktop\C#_2020\Practice\Practice1\Practice1\bin\Debug\netcoreapp3.1\Practice1.dll
+C:\Users\miair\Desktop\C#_2020\Practice\Practice1\Practice1\bin\Debug\netcoreapp3.1\Practice1.pdb
+C:\Users\miair\Desktop\C#_2020\Practice\Practice1\Practice1\obj\Debug\netcoreapp3.1\Practice1.csprojAssemblyReference.cache
+C:\Users\miair\Desktop\C#_2020\Practice\Practice1\Practice1\obj\Debug\netcoreapp3.1\Practice1.csproj.CoreCompileInputs.cache
+C:\Users\miair\Desktop\C#_2020\Practice\Practice1\Practice1\obj\Debug\netcoreapp3.1\Practice1.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\C#_2020\Practice\Practice1\Practice1\obj\Debug\netcoreapp3.1\Practice1.AssemblyInfo.cs
+C:\Users\miair\Desktop\C#_2020\Practice\Practice1\Practice1\obj\Debug\netcoreapp3.1\Practice1.dll
+C:\Users\miair\Desktop\C#_2020\Practice\Practice1\Practice1\obj\Debug\netcoreapp3.1\Practice1.pdb
+C:\Users\miair\Desktop\C#_2020\Practice\Practice1\Practice1\obj\Debug\netcoreapp3.1\Practice1.genruntimeconfig.cache
