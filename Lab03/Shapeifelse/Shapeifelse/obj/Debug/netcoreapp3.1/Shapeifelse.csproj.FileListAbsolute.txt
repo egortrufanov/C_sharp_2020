@@ -1,0 +1,11 @@
+C:\Users\miair\Desktop\Labs\Lab03\Shapeifelse\Shapeifelse\bin\Debug\netcoreapp3.1\Shapeifelse.exe
+C:\Users\miair\Desktop\Labs\Lab03\Shapeifelse\Shapeifelse\bin\Debug\netcoreapp3.1\Shapeifelse.deps.json
+C:\Users\miair\Desktop\Labs\Lab03\Shapeifelse\Shapeifelse\bin\Debug\netcoreapp3.1\Shapeifelse.runtimeconfig.json
+C:\Users\miair\Desktop\Labs\Lab03\Shapeifelse\Shapeifelse\bin\Debug\netcoreapp3.1\Shapeifelse.runtimeconfig.dev.json
+C:\Users\miair\Desktop\Labs\Lab03\Shapeifelse\Shapeifelse\bin\Debug\netcoreapp3.1\Shapeifelse.dll
+C:\Users\miair\Desktop\Labs\Lab03\Shapeifelse\Shapeifelse\bin\Debug\netcoreapp3.1\Shapeifelse.pdb
+C:\Users\miair\Desktop\Labs\Lab03\Shapeifelse\Shapeifelse\obj\Debug\netcoreapp3.1\Shapeifelse.csprojAssemblyReference.cache
+C:\Users\miair\Desktop\Labs\Lab03\Shapeifelse\Shapeifelse\obj\Debug\netcoreapp3.1\Shapeifelse.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\Labs\Lab03\Shapeifelse\Shapeifelse\obj\Debug\netcoreapp3.1\Shapeifelse.AssemblyInfo.cs
+C:\Users\miair\Desktop\Labs\Lab03\Shapeifelse\Shapeifelse\obj\Debug\netcoreapp3.1\Shapeifelse.dll
+C:\Users\miair\Desktop\Labs\Lab03\Shapeifelse\Shapeifelse\obj\Debug\netcoreapp3.1\Shapeifelse.pdb

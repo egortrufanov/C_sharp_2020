@@ -1,0 +1,10 @@
+C:\Users\miair\Desktop\Labs\Lab03\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.exe
+C:\Users\miair\Desktop\Labs\Lab03\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.deps.json
+C:\Users\miair\Desktop\Labs\Lab03\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.runtimeconfig.json
+C:\Users\miair\Desktop\Labs\Lab03\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.runtimeconfig.dev.json
+C:\Users\miair\Desktop\Labs\Lab03\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.dll
+C:\Users\miair\Desktop\Labs\Lab03\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.pdb
+C:\Users\miair\Desktop\Labs\Lab03\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\Labs\Lab03\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfo.cs
+C:\Users\miair\Desktop\Labs\Lab03\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.dll
+C:\Users\miair\Desktop\Labs\Lab03\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.pdb
