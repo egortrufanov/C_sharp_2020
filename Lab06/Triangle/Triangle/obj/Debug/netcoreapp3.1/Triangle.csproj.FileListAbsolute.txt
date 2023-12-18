@@ -1,0 +1,13 @@
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.csprojAssemblyReference.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.AssemblyInfo.cs
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.exe
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.deps.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.runtimeconfig.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.runtimeconfig.dev.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.dll
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.pdb
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.dll
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.pdb
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab06\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.genruntimeconfig.cache

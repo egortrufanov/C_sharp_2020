@@ -1,0 +1,13 @@
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\bin\Release\netcoreapp3.1\MyClass.exe
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\bin\Release\netcoreapp3.1\MyClass.deps.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\bin\Release\netcoreapp3.1\MyClass.runtimeconfig.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\bin\Release\netcoreapp3.1\MyClass.runtimeconfig.dev.json
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\bin\Release\netcoreapp3.1\MyClass.dll
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\bin\Release\netcoreapp3.1\MyClass.pdb
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\obj\Release\netcoreapp3.1\MyClass.csprojAssemblyReference.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\obj\Release\netcoreapp3.1\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\obj\Release\netcoreapp3.1\MyClass.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\obj\Release\netcoreapp3.1\MyClass.AssemblyInfo.cs
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\obj\Release\netcoreapp3.1\MyClass.dll
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\obj\Release\netcoreapp3.1\MyClass.pdb
+C:\Users\miair\Desktop\C#_2020\Labs\Lab07\MyClass\MyClass\obj\Release\netcoreapp3.1\MyClass.genruntimeconfig.cache
