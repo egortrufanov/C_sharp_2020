@@ -1,0 +1,11 @@
+C:\Users\miair\Desktop\Labs\Lab04\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.exe
+C:\Users\miair\Desktop\Labs\Lab04\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.deps.json
+C:\Users\miair\Desktop\Labs\Lab04\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.runtimeconfig.json
+C:\Users\miair\Desktop\Labs\Lab04\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.runtimeconfig.dev.json
+C:\Users\miair\Desktop\Labs\Lab04\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Users\miair\Desktop\Labs\Lab04\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\miair\Desktop\Labs\Lab04\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.csprojAssemblyReference.cache
+C:\Users\miair\Desktop\Labs\Lab04\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\Labs\Lab04\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfo.cs
+C:\Users\miair\Desktop\Labs\Lab04\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.dll
+C:\Users\miair\Desktop\Labs\Lab04\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.pdb

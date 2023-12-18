@@ -1,0 +1,11 @@
+C:\Users\miair\Desktop\Labs\Lab04\Equation\Equation\bin\Debug\netcoreapp3.1\Equation.exe
+C:\Users\miair\Desktop\Labs\Lab04\Equation\Equation\bin\Debug\netcoreapp3.1\Equation.deps.json
+C:\Users\miair\Desktop\Labs\Lab04\Equation\Equation\bin\Debug\netcoreapp3.1\Equation.runtimeconfig.json
+C:\Users\miair\Desktop\Labs\Lab04\Equation\Equation\bin\Debug\netcoreapp3.1\Equation.runtimeconfig.dev.json
+C:\Users\miair\Desktop\Labs\Lab04\Equation\Equation\bin\Debug\netcoreapp3.1\Equation.dll
+C:\Users\miair\Desktop\Labs\Lab04\Equation\Equation\bin\Debug\netcoreapp3.1\Equation.pdb
+C:\Users\miair\Desktop\Labs\Lab04\Equation\Equation\obj\Debug\netcoreapp3.1\Equation.csprojAssemblyReference.cache
+C:\Users\miair\Desktop\Labs\Lab04\Equation\Equation\obj\Debug\netcoreapp3.1\Equation.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\Labs\Lab04\Equation\Equation\obj\Debug\netcoreapp3.1\Equation.AssemblyInfo.cs
+C:\Users\miair\Desktop\Labs\Lab04\Equation\Equation\obj\Debug\netcoreapp3.1\Equation.dll
+C:\Users\miair\Desktop\Labs\Lab04\Equation\Equation\obj\Debug\netcoreapp3.1\Equation.pdb
