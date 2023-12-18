@@ -1,0 +1,32 @@
+C:\Users\miair\Desktop\C#_2020\Homework\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.csprojAssemblyReference.cache
+C:\Users\miair\Desktop\C#_2020\Homework\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.CoreCompileInputs.cache
+C:\Users\miair\Desktop\C#_2020\Homework\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\C#_2020\Homework\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfo.cs
+C:\Users\miair\Desktop\C#_2020\Homework\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.exe
+C:\Users\miair\Desktop\C#_2020\Homework\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.deps.json
+C:\Users\miair\Desktop\C#_2020\Homework\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.json
+C:\Users\miair\Desktop\C#_2020\Homework\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.dev.json
+C:\Users\miair\Desktop\C#_2020\Homework\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.dll
+C:\Users\miair\Desktop\C#_2020\Homework\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.pdb
+C:\Users\miair\Desktop\C#_2020\Homework\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.dll
+C:\Users\miair\Desktop\C#_2020\Homework\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.pdb
+C:\Users\miair\Desktop\C#_2020\Homework\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.genruntimeconfig.cache
+C:\Users\miair\Desktop\C#_2020\Homework\Homework\Homework\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\miair\Desktop\C#_2020\Homework\Homework\Homework\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\miair\Desktop\C#_2020\Homework\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.CopyComplete
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Homework\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.exe
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Homework\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.deps.json
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Homework\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.json
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Homework\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.dev.json
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Homework\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.dll
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Homework\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.pdb
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Homework\Homework\Homework\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Homework\Homework\Homework\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Homework\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.AssemblyReference.cache
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Homework\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfoInputs.cache
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Homework\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfo.cs
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Homework\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.CoreCompileInputs.cache
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Homework\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.CopyComplete
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Homework\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.dll
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Homework\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.pdb
+C:\Users\miair\Desktop\прошлое\1 курс\2 сем\C#_2020\Homework\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.genruntimeconfig.cache

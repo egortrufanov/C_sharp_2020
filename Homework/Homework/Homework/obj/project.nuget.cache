@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YCSWPiGKvIA02Rk1NitltdkMQSSN7gboSVeHAX/uBYzFBSimq9BpM9hwFhUoJN+6+gZTQdB62gRRsHS+Rr3Avg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miair\\Desktop\\прошлое\\1 курс\\2 сем\\C#_2020\\Homework\\Homework\\Homework\\Homework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miair\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
